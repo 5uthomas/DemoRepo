@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.abacsys.testscripts.TestPage">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.abacsys.testscripts.TestPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.abacsys.BaseClass.BaseTest" duration-ms="237" started-at="2019-05-19T05:11:02Z" finished-at="2019-05-19T05:11:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test 176d3dfd-dc4f-4808-b64e-268612c47e2a" duration-ms="237" started-at="2019-05-19T05:11:02Z" finished-at="2019-05-19T05:11:02Z">
+    </test> <!-- Command line test 176d3dfd-dc4f-4808-b64e-268612c47e2a -->
+  </suite> <!-- com.abacsys.BaseClass.BaseTest -->
+  <suite name="com.abacsys.testscripts.TestPage" duration-ms="106801" started-at="2019-05-19T05:11:03Z" finished-at="2019-05-19T05:12:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test 623c5e31-b95f-47a9-ada6-0cd11f007813" duration-ms="106801" started-at="2019-05-19T05:11:03Z" finished-at="2019-05-19T05:12:49Z">
+      <class name="com.abacsys.testscripts.TestPage">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.abacsys.testscripts.TestPage@60f82f98]" name="openApplication" is-config="true" duration-ms="97823" started-at="2019-05-19T10:41:03Z" finished-at="2019-05-19T10:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.abacsys.testscripts.TestPage@60f82f98]" name="LoginTest" duration-ms="1" started-at="2019-05-19T10:42:40Z" finished-at="2019-05-19T10:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.abacsys.testscripts.TestPage@60f82f98]" name="closeApplication" is-config="true" duration-ms="8948" started-at="2019-05-19T10:42:40Z" finished-at="2019-05-19T10:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=TestPage.LoginTest()[pri:0, instance:com.abacsys.testscripts.TestPage@60f82f98] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.abacsys.testscripts.TestPage -->
+    </test> <!-- Command line test 623c5e31-b95f-47a9-ada6-0cd11f007813 -->
+  </suite> <!-- com.abacsys.testscripts.TestPage -->
+</testng-results>

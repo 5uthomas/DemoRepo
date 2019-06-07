@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Zoho Suite is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Skins is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Feedback is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Setup is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Help is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Logout [rashmi@dell.com] is Title is displayed in header]]>
+    </line>
+    <line>
+      <![CDATA[Home is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Leads is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Accounts is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contacts is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Potentials is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Campaigns is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Reports is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Dashboards is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Forecasts is Title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+    <line>
+      <![CDATA[ is Title is not displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94318" started-at="2019-05-20T10:51:39Z" finished-at="2019-05-20T10:53:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94318" started-at="2019-05-20T10:51:39Z" finished-at="2019-05-20T10:53:13Z">
+      <class name="com.abacsys.testscripts.HomePageScript">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.abacsys.testscripts.HomePageScript@2c8d66b2]" name="openApplication" is-config="true" duration-ms="23827" started-at="2019-05-20T16:21:39Z" finished-at="2019-05-20T16:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="HomepageTest()[pri:0, instance:com.abacsys.testscripts.HomePageScript@2c8d66b2]" name="HomepageTest" duration-ms="66678" started-at="2019-05-20T16:22:03Z" finished-at="2019-05-20T16:23:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Zoho Suite is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Skins is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Feedback is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Setup is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Help is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Logout [rashmi@dell.com] is Title is displayed in header]]>
+            </line>
+            <line>
+              <![CDATA[Home is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Leads is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Accounts is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contacts is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Potentials is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Campaigns is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Reports is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Dashboards is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Forecasts is Title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+            <line>
+              <![CDATA[ is Title is not displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomepageTest -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:com.abacsys.testscripts.HomePageScript@2c8d66b2]" name="closeApplication" is-config="true" duration-ms="3727" started-at="2019-05-20T16:23:09Z" finished-at="2019-05-20T16:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomepageTest status=SUCCESS method=HomePageScript.HomepageTest()[pri:0, instance:com.abacsys.testscripts.HomePageScript@2c8d66b2] output=Zoho Suite is Title is displayed in header]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.abacsys.testscripts.HomePageScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
